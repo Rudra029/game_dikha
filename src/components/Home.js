@@ -5,9 +5,9 @@ import Carousel from 'react-bootstrap/Carousel'
 import {Button} from  'react-bootstrap'
 import {Link} from 'react-scroll'
 
-import i1 from 'C:/Users/developer/game-dikha/src/asset/i1.jpg';
-import i2 from 'C:/Users/developer/game-dikha/src/asset/i2.jpg';
-import i3 from 'C:/Users/developer/game-dikha/src/asset/i3.jpg';
+import i1 from './asset/i1.jpg';
+import i2 from './asset/i2.jpg';
+import i3 from './asset/i3.jpg';
 
 const Home = () => {
 

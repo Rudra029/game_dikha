@@ -3,7 +3,7 @@ import Nav from 'react-bootstrap/Nav'
 import { NavLink } from 'react-router-dom';
 import {Link} from 'react-scroll'
 import './Navigation.css'
-import the from 'C:/Users/developer/game-dikha/src/asset/the.png'
+import the from './asset/the.png'
 const Navigation = () => {
    return (
         <Nav className="navbar navbar-expand-sm bg-light navbar-dark sticky-top" >

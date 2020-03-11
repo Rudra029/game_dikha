@@ -2,8 +2,8 @@ import React from 'react';
 import "react-responsive-carousel/lib/styles/carousel.min.css";
 
 
-import game_dikha from 'C:/Users/developer/game-dikha/src/asset/game_dikha.mp4'
-import game from 'C:/Users/developer/game-dikha/src/asset/game.png'
+import game_dikha from './asset/game_dikha.mp4'
+import game from './asset/game.png'
 
 
 const GameDikha = () => {
